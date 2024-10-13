@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daaniyaal Abbasi](https://github.com/DaaniyaalAbbasi)
+- Place: India
+- Bio: Full Stack Java and Python and Machine Learning
+- Github: [DaaniyaalAbbasi](https://github.com/DaaniyaalAbbasi)
